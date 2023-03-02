@@ -1,0 +1,35 @@
+.wrapper {
+    width: 900px;
+    margin: auto;
+}
+
+.header {
+    width: 900px;
+    height: 240px;
+    border: 2px solid white;
+}
+
+.menu {
+    width: 900px;
+    height: 80px;
+    border: 2px solid white;
+    background-color: turquoise;
+}
+
+.menu li {
+    float: left;
+    margin-right: 20px;
+}
+
+.content {
+    width: 900px;
+    height: 720px;
+    border: 2px solid white;
+}
+
+.footer {
+    width: 900px;
+    height: 80px;
+    border: 2px solid white;
+    background-color: turquoise
+}
